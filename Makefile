@@ -1,4 +1,4 @@
-build: up 
+build: up ps
 
 up:
 	docker-compose up -d
